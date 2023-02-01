@@ -22,19 +22,19 @@
     "url": "https://ilearn2.fcu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/ilearn2.fcu.edu.tw.ico",
     "slug": "i-learn-2-0",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2003,
-    "timeDay": 2003,
-    "timeWeek": 2003,
-    "timeMonth": 2003,
-    "timeYear": 2003,
+    "status": "up",
+    "uptime": "94.75%",
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "94.75%",
+    "time": 1969,
+    "timeDay": 1969,
+    "timeWeek": 1969,
+    "timeMonth": 1969,
+    "timeYear": 1969,
     "dailyMinutesDown": {
-      "2023-02-01": 0
+      "2023-02-01": 40
     }
   },
   {
