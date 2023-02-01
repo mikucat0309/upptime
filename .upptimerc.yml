@@ -14,13 +14,8 @@ sites:
     url: https://oj.fcu.edu.tw/
 
 status-website:
-  cname: status2.fcu.mikuc.at
+  theme: dark
+  cname: status.fcu.mikuc.at
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "Unofficial FCU Services Status Page"
-  introMessage: ""
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  name: Unofficial FCU Services Status Page
+  introTitle: Unofficial FCU Services Status Page
