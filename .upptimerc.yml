@@ -1,5 +1,8 @@
 owner: mikucat0309
 repo: upptime
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
 
 sites:
   - name: Official Website
@@ -18,4 +21,3 @@ status-website:
   cname: status.fcu.mikuc.at
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Unofficial FCU Services Status Page
-  introTitle: Unofficial FCU Services Status Page
