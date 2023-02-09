@@ -22,18 +22,19 @@
     "url": "https://ilearn2.fcu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/ilearn2.fcu.edu.tw.ico",
     "slug": "i-learn-2-0",
-    "status": "up",
-    "uptime": "97.37%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "97.50%",
-    "uptimeMonth": "97.37%",
-    "uptimeYear": "97.37%",
+    "status": "down",
+    "uptime": "97.48%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "97.48%",
     "time": 2162,
     "timeDay": 3443,
     "timeWeek": 2290,
     "timeMonth": 2162,
     "timeYear": 2162,
     "dailyMinutesDown": {
+      "2023-02-09": 2,
       "2023-02-08": 43,
       "2023-02-07": 24,
       "2023-02-06": 37,
@@ -49,45 +50,49 @@
     "url": "https://myfcu.fcu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/myfcu.fcu.edu.tw.ico",
     "slug": "my-fcu",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 877,
     "timeDay": 771,
     "timeWeek": 818,
     "timeMonth": 877,
     "timeYear": 877,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-09": 1
+    }
   },
   {
     "name": "NID OAuth",
     "url": "https://opendata.fcu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/opendata.fcu.edu.tw.ico",
     "slug": "nid-o-auth",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 946,
     "timeDay": 654,
     "timeWeek": 971,
     "timeMonth": 946,
     "timeYear": 946,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-09": 1
+    }
   },
   {
     "name": "Online Judge",
     "url": "https://oj.fcu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/oj.fcu.edu.tw.ico",
     "slug": "online-judge",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,6 +101,8 @@
     "timeWeek": 913,
     "timeMonth": 942,
     "timeYear": 942,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-09": 0
+    }
   }
 ]
