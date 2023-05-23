@@ -1,8 +1,8 @@
 owner: mikucat0309
 repo: upptime
-skipDescriptionUpdate: true
-skipTopicsUpdate: true
-skipHomepageUpdate: true
+skipDescriptionUpdate: false
+skipTopicsUpdate: false
+skipHomepageUpdate: false
 
 sites:
   - name: Official Website
