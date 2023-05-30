@@ -4,19 +4,19 @@
     "url": "https://www.fcu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/www.fcu.edu.tw.ico",
     "slug": "official-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2926,
-    "timeDay": 1721,
-    "timeWeek": 2416,
-    "timeMonth": 2427,
-    "timeYear": 2926,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 2927,
+    "timeDay": 2167,
+    "timeWeek": 2488,
+    "timeMonth": 2447,
+    "timeYear": 2927,
     "dailyMinutesDown": {
-      "2023-05-30": 0
+      "2023-05-30": 14
     }
   },
   {
