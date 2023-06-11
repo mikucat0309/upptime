@@ -24,10 +24,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status2.fcu.mikuc.at)
+[**Visit our status website →**](https://status.fcu.mikuc.at)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [mikucat0309](https://status2.fcu.mikuc.at)
+- Code: [MIT](./LICENSE) © [mikucat0309](https://github.com/mikucat0309)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
